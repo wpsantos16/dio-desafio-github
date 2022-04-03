@@ -1,0 +1,24 @@
+Principais comandos o Git: https://docs.github.com/en
+
+git status
+
+git commit -m "msg" - cria uma mensagem junto ao commit
+
+git config --list (lista de configurações)
+
+git remote add origin endereço.git
+
+git remote -v
+
+git push origin master 
+
+comandos básicos do windows
+- cd - desce o diretorio
+- dir - ver os diretorio
+- mkdir - cria uma pasta/diretório
+- del/mkdir - deleta o diretorio
+- cls - limpa a tela
+- echo - printa de volta
+
+O git Bash é um terminal extendido para otimizar o uso do Git.
+
